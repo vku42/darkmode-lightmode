@@ -277,4 +277,7 @@ input:checked + .slider::before {
   .theme-switch-wrapper span {
     display: none;
   }
+  nav {
+    font-size: 15px;
+  }
 }
